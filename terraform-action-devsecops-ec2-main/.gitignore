@@ -1,0 +1,9 @@
+*.tfstate
+*.tfstate.backup
+*.tfplan
+.terraform.lock.*
+.terraform/
+*.tfvars
+.terraform-docs.yml
+output_values.json
+tfapply.txt
